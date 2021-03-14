@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_label</folder>
+	<filename>shark_64.jpg</filename>
+	<path>/home/ing3lo/Desktop/210310_hospital/object_detection/images/train_label/shark_64.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>526</width>
+		<height>296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>41</ymin>
+			<xmax>459</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

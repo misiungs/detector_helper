@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_label</folder>
+	<filename>shark_c_129.jpg</filename>
+	<path>/home/ing3lo/Desktop/210310_hospital/object_detection/images/test_label/shark_c_129.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>23</ymin>
+			<xmax>545</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>
